@@ -1,0 +1,8 @@
+{
+    "extensionDescription": {
+        "message": "Adds a context menu entry to extend current text selection one level up"
+    },
+    "extendTextSelection": {
+        "message": "Extend Text Selection"
+    }
+}

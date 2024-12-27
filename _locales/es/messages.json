@@ -1,0 +1,8 @@
+{
+    "extensionDescription": {
+        "message": "Agrega una entrada de menú contextual para ampliar la selección de texto actual un nivel hacia arriba"
+    },
+    "extendTextSelection": {
+        "message": "Ampliar la selección de texto"
+    }
+}
