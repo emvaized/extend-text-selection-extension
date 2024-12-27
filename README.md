@@ -1,4 +1,4 @@
-# Extend Text Selection - Firefox Addon
+# <sub><img src="./src/icon.svg" height="48" width="48"></sub> Extend Text Selection - Firefox Addon
 
 Extend Text Selection is a Firefox addon that enhances your browsing experience by adding a context menu and keyboard shortcut to extend current text selection. It might be really handy in specific use cases when really long text is embeded in small scrollable container on the page. 
 
