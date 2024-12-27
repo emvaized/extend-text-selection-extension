@@ -1,6 +1,5 @@
 # Extend Text Selection - Firefox Addon
 
-## Overview
 Extend Text Selection is a Firefox addon that enhances your browsing experience by adding a context menu and keyboard shortcut to extend current text selection. It might be really handy in specific use cases when really long text is embeded in small scrollable container on the page. 
 
 On each iteration it goes one level up in the elements tree, for example: `word` -> `paragraph` -> `block of text` -> `whole article` -> `whole page`. What exactly is going to be selected on the next step depends on how the page is structured. You might need to trigger it several times to achieve the desired level of selection.
