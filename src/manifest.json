@@ -1,33 +1,33 @@
 {
-    "manifest_version": 3,
-    "name": "Extend Text Selection",
-    "description": "__MSG_extensionDescription__",
-    "default_locale": "en",
-    "version": "0.0.1",
-    "background": {
-      "scripts": ["background.js"]
-    },
-    "permissions": [
-      "activeTab",
-      "scripting",
-      "contextMenus"
-    ],
-    "icons": {
-        "48": "icon.svg",
-        "96": "icon.svg",
-        "128": "icon.svg"
-    },
-    "browser_specific_settings": {
-      "gecko": {
-        "id": "extend_text_selection@emvaized.dev"
-      }
-    },
-    "commands": {
-        "extend-text-selection": {
-            "suggested_key": {
-                "default": "Ctrl+Alt+A"
-            },
-            "description": "__MSG_extendTextSelection__"
-        }
+  "manifest_version": 3,
+  "name": "Extend Text Selection",
+  "description": "__MSG_extensionDescription__",
+  "default_locale": "en",
+  "version": "0.0.1",
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus"
+  ],
+  "icons": {
+      "48": "icon.svg",
+      "96": "icon.svg",
+      "128": "icon.svg"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "extend_text_selection@emvaized.dev"
     }
+  },
+  "commands": {
+      "extend-text-selection": {
+          "suggested_key": {
+              "default": "Ctrl+Alt+A"
+          },
+          "description": "__MSG_extendTextSelection__"
+      }
   }
+}
